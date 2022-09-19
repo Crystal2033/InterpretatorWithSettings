@@ -1,0 +1,19 @@
+right=
+#left= 
+op()
+#()op
+#()(op)
+#(op)()
+
+#add sum
+#mult prod
+#sub minus
+#pow ^
+#rem %
+#xor <>
+#input in
+#output print
+#div vid
+
+#= <->
+#= ravno
